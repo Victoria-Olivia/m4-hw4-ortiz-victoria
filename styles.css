@@ -73,3 +73,6 @@ footer {
     background-color: #f773c4;
 }
 
+section > gallery > h3, h4 {
+    text-align: center;
+}
